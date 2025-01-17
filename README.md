@@ -1,6 +1,6 @@
-# myapp
+# Meu Layout
 
-A new Flutter project.
+Projeto desenvolvido para a atividade de Desenvolvimento WEB
 
 ## Getting Started
 
